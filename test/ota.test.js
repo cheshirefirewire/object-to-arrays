@@ -1,5 +1,5 @@
 import {expect} from "chai";
-import App from "../source/app.js";
+import Ota from "../source/ota.js";
 
 describe("ota", () => {
     it("shall exist", () => {
